@@ -1,3 +1,54 @@
+
+EXTM3U
+# Hack IPTV Scanner - 18.03.2026
+#EXTINF:-1,Rossiya24
+http://176.118.197.101/Rossiya24/mono.m3u8
+#EXTINF:-1,Nostalgiya
+http://176.118.197.101/Nostalgiya/mono.m3u8
+#EXTINF:-1,RBK
+http://176.118.197.101/RBK/mono.m3u8
+#EXTINF:-1,NTV
+http://176.118.197.101/NTV/mono.m3u8
+#EXTINF:-1,THT
+http://176.118.197.101/THT/mono.m3u8
+#EXTINF:-1,Bollywood HD
+http://176.118.197.101/Bollywood_HD/mono.m3u8
+#EXTINF:-1,Dom kino
+http://176.118.197.101/Dom_kino/mono.m3u8
+#EXTINF:-1,HCT
+http://176.118.197.101/HCT/mono.m3u8
+#EXTINF:-1,Kinokomediya
+http://176.118.197.101/Kinokomediya/mono.m3u8
+#EXTINF:-1,Kinomix
+http://176.118.197.101/Kinomix/mono.m3u8
+#EXTINF:-1,Kinopokaz
+http://176.118.197.101/Kinopokaz/mono.m3u8
+#EXTINF:-1,Kinoseria
+http://176.118.197.101/Kinoseria/mono.m3u8
+#EXTINF:-1,Komediya
+http://176.118.197.101/Komediya/mono.m3u8
+#EXTINF:-1,LubimoeKino
+http://176.118.197.101/LubimoeKino/mono.m3u8
+#EXTINF:-1,CTC
+http://176.118.197.101/CTC/mono.m3u8
+#EXTINF:-1,Che
+http://176.118.197.101/Che/mono.m3u8
+#EXTINF:-1,Retro
+http://176.118.197.101/Retro/mono.m3u8
+#EXTINF:-1,2x2
+http://176.118.197.101/2x2/mono.m3u8
+#EXTINF:-1,Cartoon Network
+http://176.118.197.101/Cartoon_Network/mono.m3u8
+#EXTINF:-1,1HD
+http://176.118.197.101/1HD/mono.m3u8
+#EXTINF:-1,KHL
+http://176.118.197.101/KHL/mono.m3u8
+#EXTINF:-1,Cinema
+http://176.118.197.101/Cinema/mono.m3u8
+#EXTINF:-1,RossiyaHD
+http://176.118.197.101/RossiyaHD/mono.m3u8
+#EXTINF:-1,Evrokino
+http://176.118.197.101/Evrokino/mono.m3u8
 #EXTM3U generation-date="2026.03.11 20:03:56 MSK"
 #EXTINF:0 tvg-id="ch001" tvg-name="ch001" tvg-logo="http://1usd.tv/images/chIcons/1.png"  timeshift="6", Первый HD
 #EXTGRP:1. Federal/Федеральные
