@@ -48,290 +48,290 @@ http://176.118.197.101/Cinema/mono.m3u8
 http://176.118.197.101/RossiyaHD/mono.m3u8
 #EXTINF:-1,Evrokino
 http://176.118.197.101/Evrokino/mono.m3u8
-EXTINF:-1 group-title="Россия #IPTV",Первый канал
+EXTINF:-1 group-title="Россия ",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Россия 1
+#EXTINF:-1 group-title="Россия ",Россия 1
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Россия 24
+#EXTINF:-1 group-title="Россия ",Россия 24
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",5 Канал
+#EXTINF:-1 group-title="Россия ",5 Канал
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Россия К
+#EXTINF:-1 group-title="Россия ",Россия К
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Мир24
+#EXTINF:-1 group-title="Россия ",Мир24
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Мир +7
+#EXTINF:-1 group-title="Россия ",Мир +7
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Мир +2
+#EXTINF:-1 group-title="Россия ",Мир +2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",РБК
+#EXTINF:-1 group-title="Россия ",РБК
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",RT Doc HD
+#EXTINF:-1 group-title="Россия ",RT Doc HD
 https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",TPO
+#EXTINF:-1 group-title="Россия ",TPO
 https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Вместе-РФ
+#EXTINF:-1 group-title="Россия ",Вместе-РФ
 https://flussonic.mkpnet.ru/tv-33b10cf41a3fb597/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",ТВЦ
+#EXTINF:-1 group-title="Россия ",ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",НТВ
+#EXTINF:-1 group-title="Россия ",НТВ
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",ТВ-3
+#EXTINF:-1 group-title="Россия ",ТВ-3
 https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Рен-ТВ
+#EXTINF:-1 group-title="Россия ",Рен-ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",СТС
+#EXTINF:-1 group-title="Россия ",СТС
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",CTC Love
+#EXTINF:-1 group-title="Россия ",CTC Love
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",ТНТ 4
+#EXTINF:-1 group-title="Россия ",ТНТ 4
 https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Че!
+#EXTINF:-1 group-title="Россия ",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Ю
+#EXTINF:-1 group-title="Россия ",Ю
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",ОТР
+#EXTINF:-1 group-title="Россия ",ОТР
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Домашний
+#EXTINF:-1 group-title="Россия ",Домашний
 https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Пятнитца!
+#EXTINF:-1 group-title="Россия ",Пятнитца!
 https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",8 Канал
+#EXTINF:-1 group-title="Россия ",8 Канал
 https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Красная Линия
+#EXTINF:-1 group-title="Россия ",Красная Линия
 https://flussonic.mkpnet.ru/tv-3c6edc849aea7c07/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",ЛДПР ТВ
+#EXTINF:-1 group-title="Россия ",ЛДПР ТВ
 https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Точка ТВ
+#EXTINF:-1 group-title="Россия ",Точка ТВ
 https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Продвижение
+#EXTINF:-1 group-title="Россия ",Продвижение
 https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Суббота
+#EXTINF:-1 group-title="Россия ",Суббота
 https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
-#EXTINF:-1 group-title="Россия #IPTV",Успех
+#EXTINF:-1 group-title="Россия ",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 
 
-#EXTINF:-1 group-title="Кино #IPTV",Amedia HIT
+#EXTINF:-1 group-title="Кино ",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",Amedia 2
+#EXTINF:-1 group-title="Кино ",Amedia 2
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",viju TV1000
+#EXTINF:-1 group-title="Кино ",viju TV1000
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",viju TV1000 Action
+#EXTINF:-1 group-title="Кино ",viju TV1000 Action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",viju TV1000 Русское
+#EXTINF:-1 group-title="Кино ",viju TV1000 Русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",viju+ Comedy
+#EXTINF:-1 group-title="Кино ",viju+ Comedy
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",viju+ megahit
+#EXTINF:-1 group-title="Кино ",viju+ megahit
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",viju+ premiere
+#EXTINF:-1 group-title="Кино ",viju+ premiere
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",Киносат
+#EXTINF:-1 group-title="Кино ",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",Киносвидание
+#EXTINF:-1 group-title="Кино ",Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",Кинохит
+#EXTINF:-1 group-title="Кино ",Кинохит
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",Русский Бестселлер
+#EXTINF:-1 group-title="Кино ",Русский Бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",Русский Детектив
+#EXTINF:-1 group-title="Кино ",Русский Детектив
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",Русский Роман
+#EXTINF:-1 group-title="Кино ",Русский Роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",.Black
+#EXTINF:-1 group-title="Кино ",.Black
 https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8
-#EXTINF:-1 group-title="Кино #IPTV",Sci Fi
+#EXTINF:-1 group-title="Кино ",Sci Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 
 
-#EXTINF:-1 group-title="Спорт #IPTV",Extreme Sports
+#EXTINF:-1 group-title="Спорт ",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-#EXTINF:-1 group-title="Спорт #IPTV",КХЛ
+#EXTINF:-1 group-title="Спорт ",КХЛ
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
-#EXTINF:-1 group-title="Спорт #IPTV",Конный мир
+#EXTINF:-1 group-title="Спорт ",Конный мир
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
-#EXTINF:-1 group-title="Спорт #IPTV",МАТЧ! Боец
+#EXTINF:-1 group-title="Спорт ",МАТЧ! Боец
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
-#EXTINF:-1 group-title="Спорт #IPTV",МАТЧ! Арена
+#EXTINF:-1 group-title="Спорт ",МАТЧ! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
-#EXTINF:-1 group-title="Спорт #IPTV",МАТЧ! Премьер
+#EXTINF:-1 group-title="Спорт ",МАТЧ! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:-1 group-title="Спорт #IPTV",МАТЧ!
+#EXTINF:-1 group-title="Спорт ",МАТЧ!
 https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
-#EXTINF:-1 group-title="Спорт #IPTV",МАТЧ! Игра
+#EXTINF:-1 group-title="Спорт ",МАТЧ! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
-#EXTINF:-1 group-title="Спорт #IPTV", МАТЧ! Страна
+#EXTINF:-1 group-title="Спорт ", МАТЧ! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 
 
-#EXTINF:-1 group-title="Познавательный #IPTV",Viasat Explore
+#EXTINF:-1 group-title="Познавательный ",Viasat Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Viasat History
+#EXTINF:-1 group-title="Познавательный ",Viasat History
 https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Viasat Nature
+#EXTINF:-1 group-title="Познавательный ",Viasat Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Бобер
+#EXTINF:-1 group-title="Познавательный ",Бобер
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Большая азия
+#EXTINF:-1 group-title="Познавательный ",Большая азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Живи Активно
+#EXTINF:-1 group-title="Познавательный ",Живи Активно
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Здоовое ТВ
+#EXTINF:-1 group-title="Познавательный ",Здоовое ТВ
 https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Моя планета
+#EXTINF:-1 group-title="Познавательный ",Моя планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Наша тема
+#EXTINF:-1 group-title="Познавательный ",Наша тема
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Точка отрыва
+#EXTINF:-1 group-title="Познавательный ",Точка отрыва
 https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Авто24
+#EXTINF:-1 group-title="Познавательный ",Авто24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Диалоги о рыбалке
+#EXTINF:-1 group-title="Познавательный ",Диалоги о рыбалке
 https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Загородная Жизнь
+#EXTINF:-1 group-title="Познавательный ",Загородная Жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
-#EXTINF:-1 group-title="Познавательный #IPTV",Мужской
+#EXTINF:-1 group-title="Познавательный ",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 
 
-#EXTINF:-1 group-title="Детский #IPTV",CTC kids
+#EXTINF:-1 group-title="Детский ",CTC kids
 https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",DuckTV
+#EXTINF:-1 group-title="Детский ",DuckTV
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",Gulli girl
+#EXTINF:-1 group-title="Детский ",Gulli girl
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",Tiji
+#EXTINF:-1 group-title="Детский ",Tiji
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",Карусель
+#EXTINF:-1 group-title="Детский ",Карусель
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",Мульт
+#EXTINF:-1 group-title="Детский ",Мульт
 https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",Мультиландия
+#EXTINF:-1 group-title="Детский ",Мультиландия
 https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",Солнце
+#EXTINF:-1 group-title="Детский ",Солнце
 https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",Супер Герои
+#EXTINF:-1 group-title="Детский ",Супер Герои
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
-#EXTINF:-1 group-title="Детский #IPTV",2x2
+#EXTINF:-1 group-title="Детский ",2x2
 https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 
 
-#EXTINF:-1 group-title="Музыка #IPTV",Bridge TV
+#EXTINF:-1 group-title="Музыка ",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF:-1 group-title="Музыка #IPTV",Europa Plus
+#EXTINF:-1 group-title="Музыка ",Europa Plus
 https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
-#EXTINF:-1 group-title="Музыка #IPTV",Ru TV
+#EXTINF:-1 group-title="Музыка ",Ru TV
 https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
-#EXTINF:-1 group-title="Музыка #IPTV",TNT Music
+#EXTINF:-1 group-title="Музыка ",TNT Music
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
-#EXTINF:-1 group-title="Музыка #IPTV",Жара ТВ
+#EXTINF:-1 group-title="Музыка ",Жара ТВ
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:-1 group-title="Музыка #IPTV",Муз ТВ
+#EXTINF:-1 group-title="Музыка ",Муз ТВ
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
-#EXTINF:-1 group-title="Музыка #IPTV",Шансон ТВ
+#EXTINF:-1 group-title="Музыка ",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 
 
 
-#EXTINF:-1 group-title="FreeOTT #IPTV",Наука
+#EXTINF:-1 group-title="Pluto ",Наука
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",RTG TV
+#EXTINF:-1 group-title="Pluto",RTG TV
 http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Ocean TV
+#EXTINF:-1 group-title="Pluto",Ocean TV
 http://hls127.freeott.top:8080/Ocean_TV/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Дикий
+#EXTINF:-1 group-title="Pluto",Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Amedia 1
+#EXTINF:-1 group-title="Pluto",Amedia 1
 http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",История
+#EXTINF:-1 group-title="Pluto",История
 http://hls127.freeott.top:8080/Istoriya/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",BCU Kinorating HD
+#EXTINF:-1 group-title="Pluto",BCU Kinorating HD
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",BCU Stars HD
+#EXTINF:-1 group-title="Pluto",BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",CPS Action
+#EXTINF:-1 group-title="Pluto",CPS Action
 http://hls127.freeott.top:8080/CPS_Action/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",CPS Comedy
+#EXTINF:-1 group-title="Pluto",CPS Comedy
 http://hls127.freeott.top:8080/CPS_Comedy/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",CPS Drama
+#EXTINF:-1 group-title="Pluto",CPS Drama
 http://hls127.freeott.top:8080/CPS_Drama/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",CPS Fiction
+#EXTINF:-1 group-title="Pluto",CPS Fiction
 http://hls127.freeott.top:8080/CPS_Fiction/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",CPS Fresh
+#EXTINF:-1 group-title="Pluto",CPS Fresh
 http://hls127.freeott.top:8080/CPS_Fresh/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",CPS Investigation
+#EXTINF:-1 group-title="Pluto",CPS Investigation
 http://hls127.freeott.top:8080/CPS_Investigation/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",CPS Cartoon
+#EXTINF:-1 group-title="Pluto",CPS Cartoon
 http://hls127.freeott.top:8080/CPS_Cartoon/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",CPS Fresh UA
+#EXTINF:-1 group-title="Pluto",CPS Fresh UA
 http://hls127.freeott.top:8080/CPS_Fresh_UA/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",BOX Anime HD
+#EXTINF:-1 group-title="Pluto",BOX Anime HD
 http://hls127.freeott.top:8080/box_anime_hd/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",BOX Metall HD
+#EXTINF:-1 group-title="Pluto",BOX Metall HD
 http://hls127.freeott.top:8080/BOX_Metall_HD/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Gagsnetwork
+#EXTINF:-1 group-title="Pluto",Gagsnetwork
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",НСТ
+#EXTINF:-1 group-title="Pluto",НСТ
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Кинопоказ HD
+#EXTINF:-1 group-title="Pluto",Кинопоказ HD
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Театр
+#EXTINF:-1 group-title="Pluto",Театр
 http://hls127.freeott.top:8080/Teatr/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Ключ
+#EXTINF:-1 group-title="Pluto",Ключ
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Кухня ТВ
+#EXTINF:-1 group-title="Pluto",Кухня ТВ
 http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Майдан
+#EXTINF:-1 group-title="Pluto",Майдан
 http://hls127.freeott.top:8080/Maydan/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Мосфильм
+#EXTINF:-1 group-title="Pluto",Мосфильм
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",MyTV
+#EXTINF:-1 group-title="Pluto",MyTV
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",MyTV2
+#EXTINF:-1 group-title="Pluto",MyTV2
 http://hls127.freeott.top:8080/MyTV2/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",MyTV3
+#EXTINF:-1 group-title="Pluto",MyTV3
 http://hls127.freeott.top:8080/MyTV3/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Наше HD
+#EXTINF:-1 group-title="Pluto",Наше HD
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Про любовь HD
+#EXTINF:-1 group-title="Pluto",Про любовь HD
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Ностальгия
+#EXTINF:-1 group-title="Pluto",Ностальгия
 http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",РБК
+#EXTINF:-1 group-title="Pluto",РБК
 http://hls127.freeott.top:8080/RBK/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Совершенно Секретно
+#EXTINF:-1 group-title="Pluto",Совершенно Секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",OstWest
+#EXTINF:-1 group-title="Pluto",OstWest
 http://hls127.freeott.top:8080/OstWest/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",ЖАРА
+#EXTINF:-1 group-title="Pluto",ЖАРА
 http://hls127.freeott.top:8080/Zhara/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",BRIDGE TV
+#EXTINF:-1 group-title="Pluto",BRIDGE TV
 http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Bridge Classic
+#EXTINF:-1 group-title="Pluto",Bridge Classic
 http://hls127.freeott.top:8080/Bridge_Classic/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Муз-ТВ
+#EXTINF:-1 group-title="Pluto",Муз-ТВ
 http://hls127.freeott.top:8080/MUZ_TV/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",СТС Kids
+#EXTINF:-1 group-title="Pluto",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Bolt
+#EXTINF:-1 group-title="Pluto",Bolt
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Бобер
+#EXTINF:-1 group-title="Pluto",Бобер
 http://hls127.freeott.top:8080/Bober/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Футбол
+#EXTINF:-1 group-title="Pluto",Футбол
 http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:-1 group-title="FreeOTT #IPTV",Da Vinci Learning
+#EXTINF:-1 group-title="Pluto",Da Vinci Learning
 http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
 
 
-#EXTINF:-1 group-title="🌐 Интернет ТВ",ВК Кино 2ᴴᴰ
+#EXTINF:-1 group-title="🍿Plutotv",ВК Кино 2ᴴᴰ
 rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="🌐 Интернет ТВ",ВК Кино и сериалыᴴᴰ
+#EXTINF:-1 group-title="🍿Plutotv",ВК Кино и сериалыᴴᴰ
 rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="🌐 Интернет ТВ",Alpha Cinemaᴴᴰ
+#EXTINF:-1 group-title="🍿Plutotv",Alpha Cinemaᴴᴰ
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="🌐 Интернет ТВ",Alpha Moretimeᴴᴰ
+#EXTINF:-1 group-title="🍿Plutotv",Alpha Moretimeᴴᴰ
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 
