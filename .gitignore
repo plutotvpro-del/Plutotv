@@ -234,8 +234,7 @@ https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 
 
-#EXTINF:-1 group-title="FreeOTT #IPTV",Info: ZunoTV
-https://m3u.usite.pro/1/demo.mp4
+
 #EXTINF:-1 group-title="FreeOTT #IPTV",Наука
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
 #EXTINF:-1 group-title="FreeOTT #IPTV",RTG TV
